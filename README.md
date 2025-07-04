@@ -47,3 +47,5 @@ The Power BI dashboard dynamically connects to the SQL database and updates insi
 - High-value customer segments
 - 
 ![Screenshot 2025-07-04 165738](https://github.com/user-attachments/assets/68041eb7-65a5-445c-964b-47666c9140a0)
+![Screenshot 2025-07-04 170149](https://github.com/user-attachments/assets/b493191d-b607-4b6d-a423-3ffe34ccfa5c)
+
