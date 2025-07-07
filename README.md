@@ -1,7 +1,7 @@
 # Data-Analytics-in-Sales-Domain
 Analyze historical sales data of Acme Co. (USA) to identify revenue and profit drivers, seasonal trends, and business risks using a full data pipeline: SQL → Python → Power BI.
 
-## 🚀 Project Goal
+##  Project Goal
 
 To uncover key insights from Acme Co.’s 2014–2018 sales data that can:
 - Identify top-performing **products**, **channels**, and **regions**
@@ -11,7 +11,7 @@ To uncover key insights from Acme Co.’s 2014–2018 sales data that can:
 
 ---
 
-## 🔧 Tech Stack & Workflow
+##  Tech Stack & Workflow
 
 | Stage         | Tools Used        | Description |
 |---------------|------------------|-------------|
@@ -23,7 +23,7 @@ To uncover key insights from Acme Co.’s 2014–2018 sales data that can:
 
 ---
 
-## 📈 Project Summary
+##  Project Summary
 
 This EDA-driven project dives into Acme Co.’s USA sales from 2014 to 2018. Key analysis includes:
 
@@ -36,7 +36,7 @@ This EDA-driven project dives into Acme Co.’s USA sales from 2014 to 2018. Key
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The Power BI dashboard dynamically connects to the SQL database and updates insights as new data is added. It includes:
 
